@@ -1,7 +1,6 @@
-# 7406datamining
-Data mining project for ISYE7406
+# Data mining project for ISYE-7406
 
-Soccer World cup prediction app
+# 2022 Soccer World Cup Prediction App
 
 ## Data Sources:
 • **Teams General statistics** from https://fbref.com, which includes teams statistics for :
